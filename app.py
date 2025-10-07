@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 # === Load the trained model ===
-model = joblib.load("xg_diff.pkl")
+model = joblib.load("xgb_xg_diff_with_teams.pkl")
 
 # === Define the UI ===
 st.title("📊 Brasileirão xG Difference Predictor")

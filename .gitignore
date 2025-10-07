@@ -1,3 +1,6 @@
+.gitignore
 get_data_and_train_model_starting_week4.ipynb
+data_model_xg_diff.ipynb
+xg_diff.pkl
 xg_diff_testing.pkl
 xgb_xg_diff_with_teams_starting_week4.pkl

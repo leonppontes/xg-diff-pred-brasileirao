@@ -1,7 +1,4 @@
 streamlit
-scikit-learn
 pandas
-xgboost
 joblib
-soccerdata
 pandas
